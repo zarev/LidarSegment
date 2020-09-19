@@ -1,0 +1,3 @@
+/home/mariyan/Documents/dev/segs/build/CMakeFiles/rebuild_cache.dir
+/home/mariyan/Documents/dev/segs/build/CMakeFiles/cv_test.dir
+/home/mariyan/Documents/dev/segs/build/CMakeFiles/edit_cache.dir
