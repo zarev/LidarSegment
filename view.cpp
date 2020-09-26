@@ -15,7 +15,7 @@ int
  main (int argc, char** argv)
 {
   pcl::PointCloud<pcl::PointXYZ>::Ptr cloud(new pcl::PointCloud<pcl::PointXYZ>);
-  pcl::io::loadPCDFile("cloud_cluster_1.pcd", *cloud);
+  pcl::io::loadPCDFile("min_cut_segmentation_tutorial.pcd", *cloud);
 
   pcl::visualization::CloudViewer viewer("Cloud Viewer");
   //blocks until the cloud is rendered
